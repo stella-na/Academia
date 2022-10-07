@@ -51,7 +51,7 @@
                 <TextField fx:id="username" layoutX="59.0" layoutY="151.0" prefHeight="25.0" prefWidth="240.0" promptText="Login" />
                 <PasswordField fx:id="password" layoutX="57.0" layoutY="218.0" prefHeight="25.0" prefWidth="240.0" promptText="Senha" />
                 <Button fx:id="button" layoutX="40.0" layoutY="287.0" mnemonicParsing="false" onAction="#userLogIn" prefHeight="36.0" prefWidth="276.0" style="-fx-background-color: #f2c70a;" text="Entrar" />
-                <Label alignment="CENTER" layoutX="40.0" layoutY="24.0" text="ACADEMIA MMRSV" textFill="#f2c70a">
+                <Label alignment="CENTER" layoutX="40.0" layoutY="24.0" text="ACADEMIA MMRS" textFill="#f2c70a">
                     <font>
                         <Font name="System Bold Italic" size="30.0" />
                     </font>
