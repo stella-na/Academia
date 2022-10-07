@@ -1,4 +1,4 @@
-# Academia-MMRSV
+# Academia
 
 Ideias de projeto podem vir de:
 * https://www.smartfit.com.br/?gclid=Cj0KCQjworiXBhDJARIsAMuzAuwcGpiybvAOxMEv3tIW5LTOkq5okqJubVxoM4Us7Re_9dOb-wZ5b90aAojwEALw_wcB
@@ -9,7 +9,6 @@ Ideias de projeto podem vir de:
 * Maria Beatriz Arruda Vieira de Lima - mariabeatriz.lima@ufrpe.br
 * Marina Cordeiro Mota - ninamota2003@gmail.com
 * Stella Nazário Anacleto de Oliveira - stellanacleto@gmail.com
-* Victor Miguel de Souza Soares - victor77miguel@gmail.com
 
 ## Descrição geral do projeto 
 O seguinte projeto, tem como principal funcionalidade implementar um sistema responsável pelo gerenciamento de uma academia, em que estará disponível uma variada gama de de treinos adequados as devidas necessidades que o usuário possui, esse sistema seria acessado por um usuário através de sua senha e login. Esse usuário, poderá ser um cliente, que terá a sua disposição a visualização do seu plano em vigor e os seus treinos diários, enquanto isso, também existirá simultaneamente um  administrador do sistema que será responsável pelo registro de clientes, controle de sua conta e acompanhamento de treinos.
